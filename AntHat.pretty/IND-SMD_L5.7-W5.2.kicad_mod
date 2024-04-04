@@ -1,26 +1,170 @@
-(module easyeda2kicad:IND-SMD_L5.7-W5.2 (layer F.Cu) (tedit 5DC5F6A4)
+(footprint "IND-SMD_L5.7-W5.2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "ed709d78-a3ff-4f29-9f0a-106a78770d52")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L5.7-W5.2"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "0b18b150-eb08-48ce-aeae-60e6799a44c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe35604c-a5df-46b4-95fb-f09e0559adfd")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e75f77a3-f1b1-409c-8fa9-f6c61b2459f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd5e8590-391e-4989-bbb8-71b2130b195f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	(attr smd)
-	(fp_text reference REF** (at 0 -4.0) (layer F.SilkS)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -2.86 -1.13)
+		(end -2.86 -2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3be3ec79-18dc-4253-bac5-59a8b8b70713")
 	)
-	(fp_text value IND-SMD_L5.7-W5.2 (at 0 4.0) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -2.86 2.64)
+		(end -2.86 1.13)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed74e3d8-bb4f-4f23-8d87-19e42ce7f73e")
 	)
-	(fp_text user %R (at 0 0) (layer F.Fab)
-		(effects (font (size 1 1) (thickness 0.15)))
+	(fp_line
+		(start -2.85 -2.6)
+		(end 2.85 -2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "175c806d-1071-4afc-a59a-906afc41d849")
 	)
-	(fp_line (start -2.85 -2.60) (end 2.85 -2.60) (layer F.SilkS) (width 0.25))
-	(fp_line (start 2.84 2.64) (end -2.86 2.64) (layer F.SilkS) (width 0.25))
-	(fp_line (start -2.86 2.64) (end -2.86 1.13) (layer F.SilkS) (width 0.25))
-	(fp_line (start -2.86 -1.13) (end -2.86 -2.60) (layer F.SilkS) (width 0.25))
-	(fp_line (start 2.85 -2.60) (end 2.85 -1.13) (layer F.SilkS) (width 0.25))
-	(fp_line (start 2.85 1.13) (end 2.85 2.64) (layer F.SilkS) (width 0.25))
-	(pad 1 smd rect (at -2.20 0.00 -90.00) (size 1.80 2.00) (layers F.Cu F.Paste F.Mask))
-	(pad 2 smd rect (at 2.20 0.00 -90.00) (size 1.80 2.00) (layers F.Cu F.Paste F.Mask))
-	(fp_circle (center -2.85 2.60) (end -2.82 2.60) (layer F.Fab) (width 0.06))
+	(fp_line
+		(start 2.84 2.64)
+		(end -2.86 2.64)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2ebd101-f656-471f-8239-8db9bdaae38b")
+	)
+	(fp_line
+		(start 2.85 -2.6)
+		(end 2.85 -1.13)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8cfc88eb-b8c2-4666-a91f-1c3fbda9a3ee")
+	)
+	(fp_line
+		(start 2.85 1.13)
+		(end 2.85 2.64)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1c5e22f7-40c7-4d4b-9ccd-689c2475855c")
+	)
+	(fp_circle
+		(center -2.85 2.6)
+		(end -2.82 2.6)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "6f719a38-97b9-4b3c-ad1b-a879d3ab0198")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "615df3a0-c419-411f-903d-492ea6253005")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.2 0 270)
+		(size 1.8 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fc5c7acc-50ea-40af-a565-3bd71b7be9d8")
+	)
+	(pad "2" smd rect
+		(at 2.2 0 270)
+		(size 1.8 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a6e69600-8f0c-4e70-af24-f76626be463f")
+	)
 	(model "/Users/skot/Work/Bitcoin/bitcart/AntHat/AntHat.3dshapes/IND-SMD_L5.7-W5.2-H2.8.wrl"
-		(offset (xyz 0.000 -0.000 -0.000))
-		(scale (xyz 1 1 1))
-		(rotate (xyz 0 0 0))
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
