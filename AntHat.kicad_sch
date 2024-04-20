@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "AntHat")
-		(date "2024-03-28")
-		(rev "1")
+		(date "2024-04-20")
+		(rev "2")
 	)
 	(lib_symbols
 		(symbol "AntHat:0455580003"
