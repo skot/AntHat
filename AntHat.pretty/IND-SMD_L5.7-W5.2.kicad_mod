@@ -34,6 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -46,6 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -58,6 +60,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -156,7 +159,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "a6e69600-8f0c-4e70-af24-f76626be463f")
 	)
-	(model "/Users/skot/Work/Bitcoin/bitcart/AntHat/AntHat.3dshapes/IND-SMD_L5.7-W5.2-H2.8.wrl"
+	(model "${KIPRJMOD}/AntHat.3dshapes/IND_SRP5030CA_BRN.step"
 		(offset
 			(xyz 0 -0 -0)
 		)
