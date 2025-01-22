@@ -9659,7 +9659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps25924.pdf"
 			(at 330.2 58.42 0)
 			(effects
 				(font
@@ -9678,6 +9678,24 @@
 			)
 		)
 		(property "LCSC" "C165131"
+			(at 330.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" "296-44843-1-ND"
+			(at 330.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTNO" "TPS259241DRCR"
 			(at 330.2 50.8 0)
 			(effects
 				(font
