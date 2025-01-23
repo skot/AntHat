@@ -1279,4 +1279,15 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "2a153212-89a9-4d49-93f1-57f2fe348d31")
 	)
+	(model "${KIPRJMOD}/AntHat.3dshapes/QFN16_4x4MC_MCH.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

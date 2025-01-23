@@ -7638,6 +7638,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 213.36 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 213.36 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ade7d63-9a6a-442f-a2c1-0672ce3e6e02")
 		)
@@ -7717,6 +7735,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-0736KL"
+			(at 119.38 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 119.38 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C137999"
 			(at 119.38 190.5 0)
 			(effects
 				(font
@@ -7813,6 +7849,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 142.24 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 142.24 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29969e55-cb9a-4eb7-8bf0-108974a109b2")
 		)
@@ -7874,6 +7928,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 279.4 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 279.4 264.16 0)
 			(effects
 				(font
@@ -7955,6 +8018,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-072K2L"
+			(at 273.05 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 273.05 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25879"
 			(at 273.05 123.19 0)
 			(effects
 				(font
@@ -8052,6 +8133,15 @@
 			)
 		)
 		(property "LCSC" "C2982043"
+			(at 185.42 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 185.42 184.15 0)
 			(effects
 				(font
@@ -8162,6 +8252,15 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 214.63 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2f7f6145-d3d4-49b0-aaa9-55aa33944b9c")
 		)
@@ -8244,6 +8343,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-0736KL"
+			(at 104.14 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 104.14 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C137999"
 			(at 104.14 190.5 0)
 			(effects
 				(font
@@ -8341,6 +8458,15 @@
 			)
 		)
 		(property "LCSC" "C54909"
+			(at 185.42 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 185.42 251.46 0)
 			(effects
 				(font
@@ -8450,6 +8576,15 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 69.85 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f650f599-28ce-49cd-9ba2-2bc67b3bf252")
 		)
@@ -8547,6 +8682,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 104.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
+			(at 104.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91560b7e-cd78-4ef4-bfa8-508d157e8bec")
 		)
@@ -8636,6 +8789,15 @@
 			)
 		)
 		(property "LCSC" "C2982043"
+			(at 185.42 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 185.42 204.47 0)
 			(effects
 				(font
@@ -8744,6 +8906,15 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 264.16 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "96d313d1-d311-4eb1-81c2-0efa6cd79e8d")
 		)
@@ -8833,6 +9004,15 @@
 			)
 		)
 		(property "LCSC" "C264098"
+			(at 207.01 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 207.01 41.91 0)
 			(effects
 				(font
@@ -8937,6 +9117,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" "25V"
+			(at 227.33 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C52923"
+			(at 227.33 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c808681e-1987-467d-9354-6bd38e36235a")
 		)
@@ -9017,6 +9215,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-0710KL"
+			(at 127 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 127 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C60489"
 			(at 127 190.5 0)
 			(effects
 				(font
@@ -9112,6 +9328,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 201.93 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 201.93 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "681e6f1f-630e-4b04-804c-c8d8af21fb91")
 		)
@@ -9199,6 +9433,23 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 245.11 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 249.936 55.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "20f2746a-cdcf-4a92-845a-e787061c7536")
 		)
@@ -9260,6 +9511,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 279.4 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 279.4 259.08 0)
 			(effects
 				(font
@@ -9349,6 +9609,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 228.6 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25077"
+			(at 228.6 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1fc4dab3-5583-4604-88f4-fc37d1aa502d")
 		)
@@ -9427,6 +9705,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-0733KL"
+			(at 50.8 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 50.8 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25779"
 			(at 50.8 195.58 0)
 			(effects
 				(font
@@ -9522,6 +9818,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 292.1 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25879"
+			(at 292.1 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7732c892-3d35-4a11-a2e2-be610ed6aac0")
 		)
@@ -9601,6 +9915,24 @@
 			)
 		)
 		(property "PARTNO" "GRM21BC8YA106ME11L"
+			(at 170.18 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
+			(at 170.18 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 170.18 116.84 0)
 			(effects
 				(font
@@ -9696,6 +10028,15 @@
 			)
 		)
 		(property "PARTNO" "TPS259241DRCR"
+			(at 330.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 330.2 50.8 0)
 			(effects
 				(font
@@ -9818,6 +10159,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" "25V"
+			(at 306.07 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C16529"
+			(at 306.07 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2a734fc3-4000-4184-82d4-dc184315cb33")
 		)
@@ -9897,6 +10256,24 @@
 			)
 		)
 		(property "PARTNO" "GCM155R71H122KA37D"
+			(at 364.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 364.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C16529"
 			(at 364.49 58.42 0)
 			(effects
 				(font
@@ -9992,6 +10369,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 273.05 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25752"
+			(at 273.05 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "053aa6ab-24d6-405c-8202-339277e72052")
 		)
@@ -10071,6 +10466,24 @@
 			)
 		)
 		(property "PARTNO" "EMC2305-1-AP-TR"
+			(at 82.55 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 82.55 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C621415"
 			(at 82.55 214.63 0)
 			(effects
 				(font
@@ -10211,6 +10624,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 214.63 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25752"
+			(at 214.63 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bcb96d55-ec5d-4ab9-bf60-a49a61f2d826")
 		)
@@ -10298,6 +10729,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 149.86 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 149.86 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "214c17ae-4d1b-4313-afbe-840f0894de83")
 		)
@@ -10359,6 +10808,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 279.4 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 279.4 269.24 0)
 			(effects
 				(font
@@ -10448,6 +10906,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" "25V"
+			(at 262.89 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C16529"
+			(at 262.89 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e2f14c0-ce3e-4764-8e66-4ffc235fe84e")
 		)
@@ -10509,6 +10985,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 283.21 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 283.21 104.14 0)
 			(effects
 				(font
@@ -10604,6 +11089,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C137999"
+			(at 96.52 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "87056436-23ab-48fd-8c16-e5c70d8e2b77")
 		)
@@ -10690,6 +11193,15 @@
 			)
 		)
 		(property "LCSC" "C2071517"
+			(at 236.22 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 236.22 106.68 0)
 			(effects
 				(font
@@ -10806,6 +11318,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 191.77 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 191.77 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "11280147-3e06-49c0-be6d-526a408d651e")
 		)
@@ -10885,6 +11415,24 @@
 			)
 		)
 		(property "PARTNO" "GRM155R71C104KA88J"
+			(at 236.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 236.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C52923"
 			(at 236.22 45.72 0)
 			(effects
 				(font
@@ -10980,6 +11528,23 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" "10V"
+			(at 350.52 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7222"
+			(at 345.44 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dcd19a9a-4979-46b4-8aef-fcd0c397be55")
 		)
@@ -11067,6 +11632,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 111.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C137999"
+			(at 111.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ddb3a7ec-75f3-4094-a90b-fe606d171fa9")
 		)
@@ -11144,6 +11727,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-0722KL"
+			(at 57.15 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 57.15 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25768"
 			(at 57.15 195.58 0)
 			(effects
 				(font
@@ -11239,6 +11840,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 322.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 322.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d55c8b0-3478-4280-ad90-30d7efa223c1")
 		)
@@ -11326,6 +11945,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 332.74 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 332.74 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f8e6db9-7f0f-4e65-b2e8-6f2a7a9d37e5")
 		)
@@ -11403,6 +12040,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-074K7L"
+			(at 113.03 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 113.03 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
 			(at 113.03 45.72 0)
 			(effects
 				(font
@@ -11497,6 +12152,15 @@
 			)
 		)
 		(property "LCSC" "C2977589"
+			(at 71.12 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 71.12 68.58 0)
 			(effects
 				(font
@@ -11706,6 +12370,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 181.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 181.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "92593bf8-906e-4cd9-87db-77c99c962a61")
 		)
@@ -11783,6 +12465,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-074K7L"
+			(at 22.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 22.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
 			(at 22.86 66.04 0)
 			(effects
 				(font
@@ -11878,6 +12578,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 292.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25879"
+			(at 292.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb9ce37a-3000-44ab-b992-91bb11b36092")
 		)
@@ -11898,7 +12616,7 @@
 		(at 302.26 124.46 90)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a9e2b51d-9d5a-42cf-a12a-a492ef73c02a")
@@ -11940,6 +12658,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 302.26 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 302.26 124.46 0)
 			(effects
 				(font
@@ -12022,6 +12749,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-074K7L"
+			(at 38.1 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 38.1 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
 			(at 38.1 195.58 0)
 			(effects
 				(font
@@ -12117,6 +12862,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 351.79 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25879"
+			(at 351.79 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "20461c06-213c-480f-81a3-e2117ab72512")
 		)
@@ -12196,6 +12959,24 @@
 			)
 		)
 		(property "PARTNO" "GRM155R71C104KA88J"
+			(at 223.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 223.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C52923"
 			(at 223.52 99.06 0)
 			(effects
 				(font
@@ -12291,6 +13072,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" "25V"
+			(at 74.93 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C52923"
+			(at 74.93 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b9a4f8e-ad24-4914-b2f3-3eaa2a5754a6")
 		)
@@ -12370,6 +13169,24 @@
 			)
 		)
 		(property "PARTNO" "GRM21BC8YA106ME11L"
+			(at 160.02 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
+			(at 160.02 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 160.02 116.84 0)
 			(effects
 				(font
@@ -12465,6 +13282,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 312.42 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 312.42 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7c73dad4-5968-4968-86ed-4615b1f9483b")
 		)
@@ -12545,6 +13380,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-0710KL"
+			(at 134.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 134.62 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C60489"
 			(at 134.62 190.5 0)
 			(effects
 				(font
@@ -12643,6 +13496,15 @@
 			)
 		)
 		(property "LCSC" "C19188571"
+			(at 185.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 185.42 52.07 0)
 			(effects
 				(font
@@ -12750,6 +13612,24 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 262.89 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25765"
+			(at 262.89 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05882960-6a68-4752-a35e-e0a7b024f289")
 		)
@@ -12827,6 +13707,24 @@
 			)
 		)
 		(property "PARTNO" "RC0402FR-074K7L"
+			(at 31.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 31.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
 			(at 31.75 66.04 0)
 			(effects
 				(font
@@ -12932,6 +13830,15 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 185.42 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4eb146b4-15a4-46d4-b4d4-768b409594b3")
 		)
@@ -13007,6 +13914,15 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage" ""
+			(at 279.4 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "AntHat"
 				(path "/8a5e5942-3c31-4d30-a0e0-705f88605e76"
@@ -13034,7 +13950,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF 100v"
+		(property "Value" "0.1uF"
 			(at 192.278 53.086 0)
 			(effects
 				(font
@@ -13043,7 +13959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 199.0852 54.61 0)
 			(effects
 				(font
@@ -13052,7 +13968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://psearch.en.murata.com/capacitor/product/GRM155R62A104KE14%23.pdf"
+		(property "Datasheet" ""
 			(at 198.12 50.8 0)
 			(effects
 				(font
@@ -13070,7 +13986,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "490-10458-1-ND"
+		(property "DK" ""
 			(at 198.12 50.8 0)
 			(effects
 				(font
@@ -13079,7 +13995,24 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "GRM155R62A104KE14D"
+		(property "PARTNO" ""
+			(at 198.12 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "100V"
+			(at 201.168 53.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
 			(at 198.12 50.8 0)
 			(effects
 				(font
@@ -13108,7 +14041,7 @@
 		(at 250.19 39.37 270)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f82c0a8d-4543-4659-9478-3a53e705191e")
@@ -13150,6 +14083,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 250.19 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 250.19 39.37 0)
 			(effects
 				(font
@@ -13242,6 +14184,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 302.26 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 302.26 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58678d5a-64ed-486f-ba7a-d64d5f33717e")
 		)
@@ -13262,7 +14222,7 @@
 		(at 283.21 92.71 0)
 		(unit 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "fac95e0b-b2e9-43a0-b101-c76566642fa5")
@@ -13304,6 +14264,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 283.21 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 283.21 92.71 0)
 			(effects
 				(font
@@ -13370,6 +14339,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 254 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
 			(at 254 120.65 0)
 			(effects
 				(font

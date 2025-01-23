@@ -510,7 +510,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Manufacturing Files/gerbers/",
-      "pos_files": "",
+      "pos_files": "Manufacturing Files/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -646,6 +646,12 @@
           "group_by": true,
           "label": "Value",
           "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Voltage",
+          "name": "Voltage",
           "show": true
         },
         {
