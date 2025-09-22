@@ -4441,7 +4441,7 @@
 			(uuid "79640002-cf57-4264-a974-e9f679b74f7b")
 		)
 		(embedded_fonts no)
-		(model "/Users/skot/Documents/KiCad/easyeda2kicad/lcsc.3dshapes/CONN-TH_6P-P2.00_PHD-2X3A.wrl"
+		(model "${KIPRJMOD}/AntHat.3dshapes/CONN-TH_6P-P2.00_HCTL_HC-PHD-2X3A.wrl"
 			(offset
 				(xyz 0 -0 0)
 			)
@@ -11754,7 +11754,7 @@
 			(uuid "5593a18e-4325-4b93-84b4-988dd1170976")
 		)
 		(embedded_fonts no)
-		(model "/Users/skot/Bitcoin/bitcart/AntHat/AntHat.3dshapes/VSON-10_L3.0-W3.0-H0.6-P0.50.wrl"
+		(model "${KIPRJMOD}/AntHat.3dshapes/VSON-10_L3.0-W3.0-H0.6-P0.50.wrl"
 			(offset
 				(xyz -0 0 -0)
 			)
