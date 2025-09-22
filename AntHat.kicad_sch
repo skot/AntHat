@@ -11055,7 +11055,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C107021"
+		(property "LCSC" "C16529"
 			(at 306.07 63.5 0)
 			(effects
 				(font
@@ -14768,7 +14768,7 @@
 		(at 338.455 260.985 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)

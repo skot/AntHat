@@ -694,19 +694,13 @@
           "group_by": true,
           "label": "Value",
           "name": "Value",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Voltage",
           "name": "Voltage",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "DK",
-          "name": "DK",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -722,9 +716,15 @@
         },
         {
           "group_by": false,
+          "label": "DK",
+          "name": "DK",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -756,7 +756,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "${QUANTITY}"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
